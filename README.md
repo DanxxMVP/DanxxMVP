@@ -26,19 +26,19 @@
 
 <br><br>
 
-🔭 I’m currently working on **Magento 2**
+🔭 I’m currently working on **Freelancer**
 
-🌱 I’m currently learning **Magento 2 cloud**
+🌱 I’m currently learning **Flutter and figma**
 
-👨‍💻 All of my projects are available at [Supravat's works](https://supravatm.github.io/projects)
+👨‍💻 All of my projects are available at [Supravat's works](https://github.com/DanxxMVP)
 
-💬 Ask me about **PHP, Magento, LAMP**
+💬 Ask me about **Flutter, Python and figma**
 
 📫 How to reach me **booyahdanxx7@gmail.com**
 
-📄 Know about my experiences [my experiences](http://supravatm.github.io)
+📄 Know about my experiences [my experiences](https://github.com/DanxxMVP)
 
-⚡ Fun fact **I think I'm funny**
+⚡ Fun fact **I'm very curious and I love learning new things**
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
