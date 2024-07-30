@@ -30,7 +30,7 @@
 
 🌱 I’m currently learning **Flutter and figma.**
 
-👨‍💻 All of my projects are available at [Supravat's works.](https://github.com/DanxxMVP)
+👨‍💻 All of my projects are available at [Portafolio](https://github.com/DanxxMVP)
 
 💬 Ask me about **Flutter, Python and figma.**
 
@@ -43,9 +43,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-#### Languages and Tools:
-
----
 
 **Languages and Tools:**
 
@@ -61,9 +58,6 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   
 </p>
-
----
-
 
 
 <br/>
