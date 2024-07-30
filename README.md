@@ -49,11 +49,14 @@
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <br/>
