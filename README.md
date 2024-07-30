@@ -67,13 +67,12 @@
 <a href="https://github.com/DanxxMVP">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanxxMVP&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
-
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br/>
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<br>
+
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
