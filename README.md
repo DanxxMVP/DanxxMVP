@@ -59,8 +59,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br/>
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanxxMVP&layout=compact)
+<br/>
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
 <p align='center'>
