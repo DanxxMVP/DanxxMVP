@@ -55,7 +55,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 </p>
-
+<br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
