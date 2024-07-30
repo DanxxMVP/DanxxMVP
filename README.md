@@ -26,19 +26,19 @@
 
 <br><br>
 
-🔭 I’m currently working on **Freelancer**
+🔭 I’m currently working on **Freelancer.**
 
-🌱 I’m currently learning **Flutter and figma**
+🌱 I’m currently learning **Flutter and figma.**
 
-👨‍💻 All of my projects are available at [Supravat's works](https://github.com/DanxxMVP)
+👨‍💻 All of my projects are available at [Supravat's works.](https://github.com/DanxxMVP)
 
-💬 Ask me about **Flutter, Python and figma**
+💬 Ask me about **Flutter, Python and figma.**
 
 📫 How to reach me **booyahdanxx7@gmail.com**
 
-📄 Know about my experiences [my experiences](https://github.com/DanxxMVP)
+📄 Know about my experiences [my experiences.](https://github.com/DanxxMVP)
 
-⚡ Fun fact **I'm very curious and I love learning new things**
+⚡ Fun fact **I'm very curious and I love learning new things.**
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
