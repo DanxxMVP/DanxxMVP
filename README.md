@@ -69,6 +69,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanxxMVP&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br/>
 <br/>
 <br/>
