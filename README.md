@@ -57,11 +57,20 @@
 </p>
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <br/>
+
+### Github Activity ✔:
+
 <a href="https://github.com/DanxxMVP">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanxxMVP&theme=tokyonight" />
   </a>
+
+<a href="https://github.com/DanxxMVP">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanxxMVP&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
+
+<br/>
+<br/>
 <br/>
 
 
