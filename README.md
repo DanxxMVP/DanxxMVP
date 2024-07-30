@@ -53,7 +53,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
 </p>
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
