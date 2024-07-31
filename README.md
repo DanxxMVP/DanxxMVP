@@ -62,7 +62,7 @@
 <a href="https://github.com/DanxxMVP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanxxMVP&theme=tokyonight" />
   </a>
-<br/>
+
 <a href="https://github.com/DanxxMVP">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanxxMVP&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
@@ -81,7 +81,7 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
