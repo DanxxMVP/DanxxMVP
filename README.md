@@ -43,8 +43,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-**My favorite skills:**
+<h2 align='center'>⭐My favorite skills:⭐</h2>
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
@@ -69,7 +68,6 @@
 </a>
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<br/>
 
 <h2 align='center'>⭐Thanks for your time⭐</h2>
 <br>
