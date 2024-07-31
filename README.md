@@ -82,19 +82,14 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
 
-
-<h2 align='center'>🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+## <b>💪Quote || Fact</b>
 <br>
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
 
-
-
 <br>
 
-#### <p align="center"><b>Thank you for taking the time to read my profile </b></p>
+#### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
 
 
 <!--Footer--> 
