@@ -11,8 +11,9 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
- <img src="<iframe src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="icon" width="50" height="50" />
-</div>
+   <img src="[https://techstack-generator.vercel.app/js-icon.svg](https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif
+</div>)" alt="icon"width="50" height="50" />
+
 
 <br>
 
