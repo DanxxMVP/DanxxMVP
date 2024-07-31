@@ -91,7 +91,7 @@
 </a>
 
 <a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svgstyle=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
+<img src=https://www.vectorlogo.zone/logos/instagram/instagram-icon.svgstyle=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://twitter.com/kiran__a__n" target="_blank">
