@@ -45,7 +45,7 @@
 
 <h2 align='center'>⭐My favorite skills:⭐</h2>
 
-<p>
+<p align='center'>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
@@ -57,7 +57,7 @@
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align='center'>⭐Github Activity ✔⭐</h2>
+<h2 align='center'>Github Activity ✔</h2>
 
 <a href="https://github.com/DanxxMVP">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanxxMVP&theme=tokyonight" />
