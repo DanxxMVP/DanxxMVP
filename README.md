@@ -73,8 +73,11 @@
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 
 <!-- CONNECTION -->  
 <p align="center">
@@ -83,11 +86,6 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-#
-
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
 
 
 <!--Footer--> 
