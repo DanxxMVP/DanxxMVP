@@ -60,7 +60,7 @@
 <h2 align='center'>Github Activity ✔</h2>
 
 <a href="https://github.com/DanxxMVP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanxxMVP&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanxxMVP&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/DanxxMVP">
