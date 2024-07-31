@@ -74,6 +74,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
