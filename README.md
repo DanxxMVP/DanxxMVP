@@ -62,7 +62,7 @@
 <a href="https://github.com/DanxxMVP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanxxMVP&theme=tokyonight" />
   </a>
-
+<br/>
 <a href="https://github.com/DanxxMVP">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanxxMVP&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
