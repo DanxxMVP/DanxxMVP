@@ -31,7 +31,7 @@
 
 📫 How to reach me **booyahdanxx7@gmail.com**
 
-📄 Know about my experiences [my experiences.](https://github.com/DanxxMVP)
+📄 Know about my experiences [my experiences.](https://danxxmvp.github.io/WebDanxx7)
 
 ⚡ Fun fact **I'm very curious and I love learning new things.**
 
